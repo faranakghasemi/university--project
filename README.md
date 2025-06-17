@@ -1,5 +1,6 @@
 # university--project
 cardiac Atrium Segmentation Using U-Net
+
 This project is a deep learning-based approach for segmenting the atrium in cardiac DICOM images using a U-Net architecture. It includes preprocessing of medical DICOM files, model construction, training, and visualization of results.
 
 📂 Project Overview
